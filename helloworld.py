@@ -5,7 +5,7 @@
 
 def main():
   Greeting = "Hello, world of Python3!"
-  print("{}",format(Greeting))
+  print("{}".format(Greeting))
 
 if __name__ == "__main__":
     main()
