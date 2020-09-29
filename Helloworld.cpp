@@ -1,6 +1,12 @@
-#include <stdio.h>
+/* Kasonde Besa
+ * helloworld.cpp
+ * This program simply prints out a greeting to the world of C++
+ * Date: September 28th, 2020
+ */
+ 
+#include <iostream>
 
 int main(){
-   printf("%s", "Hello world of C!")
-   return 1
+   std:: cout << "Hello world of C++!";
+   return 0;
 }
