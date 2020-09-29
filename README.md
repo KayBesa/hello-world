@@ -1,3 +1,2 @@
 # hello-world
-Just coding basics and norms I guess in all languages 
-That I can code in. Hello Programming World!
+How to say hello world in different programming languages.
