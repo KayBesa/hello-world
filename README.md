@@ -6,4 +6,5 @@ This respository contains code in various languages depicting basic syntax for t
 Each of the programs will output to the terminal "Hello, World!".
 
 ---
-**Kasonde Besa**
+## License
+**Kasonde Besa** :c:
